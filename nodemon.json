@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USER":"payslipDB",
+        "MONGO_PASSWORD":"mLWb0UqvfAOC8PR5",
+        "MONGO_DB":"payslip-DB"
+    }
+}
